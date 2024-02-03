@@ -1,0 +1,12 @@
+public class Operations
+{
+	public static void main (String args[])
+	{
+		int a,b;
+		a=15
+		b=10
+		
+		System.out.printfln("Add is"+(a+b));
+		System.out.printfln("sub is"+(a-b));
+	}
+}
